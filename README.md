@@ -15,7 +15,7 @@ Each sub-dataset is divided into train, test, and dev sets, and contains a colle
 This dataset is filtered and divided from the WenetSpeech dataset, if you need to use this dataset, you need to do the following steps
 1. download the 
 
-   [WenetSpeech]: https://wenet.org.cn/WenetSpeech/
+   [WenetSpeech]: https://wenet.org.cn/WenetSpeech/	""WenetSpeech""
 
     dataset
 
@@ -23,6 +23,6 @@ This dataset is filtered and divided from the WenetSpeech dataset, if you need t
 
 3. Call fix_data_dir.sh of the 
 
-   [Kaldi]: https://github.com/kaldi-asr/kaldi
+   [Kaldi]: https://github.com/kaldi-asr/kaldi	""Kaldi""
 
     tool to process each sub-dataset and you will get a filtered and constructed dataset
