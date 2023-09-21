@@ -26,3 +26,16 @@ This dataset is filtered and divided from the WenetSpeech dataset, if you need t
    [Kaldi]: https://github.com/kaldi-asr/kaldi	""Kaldi""
 
     tool to process each sub-dataset and you will get a filtered and constructed dataset
+paper: [CB-CONFORMER: CONTEXTUAL BIASING CONFORMER FOR BIASED WORD RECOGNITION](https://arxiv.org/pdf/2304.09607)
+
+citation:
+```
+@inproceedings{CB-Conformer,
+  title={CB-Conformer: Contextual biasing Conformer for biased word recognition},
+  author={Xu, Yaoxun and Liu, Baiji and Huang, Qiaochu and Song, Xingchen and Wu, Zhiyong and Kang, Shiyin and Meng, Helen},
+  booktitle={ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={1--5},
+  year={2023},
+  organization={IEEE}
+}
+```
