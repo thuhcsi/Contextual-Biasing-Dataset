@@ -1,5 +1,7 @@
 # Contexual-Biasing-Dataset
 
+paper: [CB-Conformer: Contextual biasing Conformer for biased word recognition](https://arxiv.org/pdf/2304.09607)
+
 This repository contains the Mandarin biased words dataset with five sub-datasets, namely the person-name dataset, the place-name dataset, the organization-name dataset, and the full set of biased words containing all categories called "all_biased" dataset as well as the dataset without biased words called "no_biased" dataset.
 
 Each sub-dataset is divided into train, test, and dev sets, and contains a collection of biased words. The specific dataset sizes are as follows:
@@ -26,7 +28,7 @@ This dataset is filtered and divided from the WenetSpeech dataset, if you need t
    [Kaldi]: https://github.com/kaldi-asr/kaldi	""Kaldi""
 
     tool to process each sub-dataset and you will get a filtered and constructed dataset
-paper: [CB-CONFORMER: CONTEXTUAL BIASING CONFORMER FOR BIASED WORD RECOGNITION](https://arxiv.org/pdf/2304.09607)
+
 
 citation:
 ```
